@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tasks{
+    background-color: aquamarine;
+    padding: 50px 25px;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+input,select{
+    border:none;
+    padding: 10px;
+    margin-top: 6px;
+    border-radius: 10px;
+    background-color:rgb(46, 42, 42);
+    color: aliceblue;
+}
+.btn1{
+    background-color: aquamarine;
+    color: black;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+}
+.viewmain{
+    background-color: aquamarine;
+}
+.dbtn{
+    background-color: lightcyan;
+    border: none;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 10px;
+}
+.taskbtn{
+    margin-top: 20px;
+    background-color: aquamarine;
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+td{
+    padding: 10px;
+}

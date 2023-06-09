@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "todo": [
+    {
+      "name": "ffdgfdg",
+      "date": "2023-04-06",
+      "type": "Family",
+      "id": 1
+    },
+    {
+      "name": "fgfdgg",
+      "date": "2023-04-06",
+      "type": "Personal",
+      "id": 2
+    },
+    {
+      "name": "yuytuyt",
+      "date": "2023-04-22",
+      "type": "Office",
+      "id": 3
+    }
+  ]
+}
